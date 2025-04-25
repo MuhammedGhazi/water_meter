@@ -3,9 +3,9 @@ class TemplateParams {
   TemplateParams({required this.id});
 }
 
-class UserParams {
+class SubsParams {
   final String id;
-  UserParams({required this.id});
+  SubsParams({required this.id});
 }
 
 class PostParams {
